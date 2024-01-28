@@ -1,1 +1,1 @@
-# sorting_algorithms
+'Algorithms' is really a wide space of study
